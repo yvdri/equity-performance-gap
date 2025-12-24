@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Generated data (keep folders, ignore contents)
+02_data_processed/*
+!02_data_processed/.gitkeep
+
+# Generated figures (keep folders, ignore contents)
+05_figures/*
+!05_figures/.gitkeep
+
+# Generated results (keep folders, ignore contents)
+06_results/*
+!06_results/.gitkeep
